@@ -1,0 +1,1 @@
+Note that this example assumes a simple graph structure and heuristic values equal to distances between cities. In practice, you might need to adapt the code to suit the specifics of your data and problem domain. Also, remember that Greedy Best-First Search might not always produce the optimal solution, especially when dealing with more complex graphs and problems.
